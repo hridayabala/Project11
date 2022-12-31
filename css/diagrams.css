@@ -1,0 +1,34 @@
+h2{
+    margin-left:36%;
+    margin-right:36%;
+
+}
+
+section{
+    border: 2px ridge black;
+    width:50%;
+    margin:0 auto;
+    margin-top:3%;
+    margin-bottom:1%;
+    background-color:rgba(255, 192, 203, 0.466);
+    padding:40px;
+    border-radius:40px;
+
+}
+
+.g{
+    width:75%;
+    height:75%;
+    border-radius:40px;
+    border: 6px dashed pink;
+}
+
+.g:hover{
+    transform:scale(1.05);
+
+}
+
+section:hover{
+    transform:scale(1.05);
+
+}
